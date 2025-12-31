@@ -1,0 +1,7 @@
+torch
+torchvision
+timm
+pytorch-lightning
+einops
+matplotlib
+pillow
