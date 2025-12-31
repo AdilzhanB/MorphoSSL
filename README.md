@@ -199,7 +199,3 @@ If you are writing up results, the recommended minimum evidence set is:
 - loss and accuracy curves
 - at least one reconstruction visualization showing original/masked/reconstruction
 - a clear baseline comparison (ResNet50 pretrained vs MAE encoder fine-tuning)
-
-## License
-
-Add a license file if you plan to distribute this repository publicly.
